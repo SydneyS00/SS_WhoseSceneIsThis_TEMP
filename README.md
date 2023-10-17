@@ -7,4 +7,6 @@
 
 # Prototype Vertical Slice Pro_01 10/17
 - Found fonts for UI elements
+- Have fun buttons for the settings and start buttons on main menu
+- Made a fun button for draw cards
   
