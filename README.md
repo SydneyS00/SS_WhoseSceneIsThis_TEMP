@@ -9,7 +9,6 @@ Youtube Tutorials:
 - WebGL Link: https://sydneys00.github.io/SS_WhoseSceneIsThis_TEMP/
 
 # Prototype Vertical Slice Pro_01 10/17
-- Found fonts for UI elements
 - Have fun buttons for the settings and start buttons on main menu
 - Made a fun button for draw cards
 - Imported fonts (forgot to switch all of the text)
