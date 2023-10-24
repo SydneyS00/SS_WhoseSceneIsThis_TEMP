@@ -13,3 +13,5 @@ Youtube Tutorials:
 - Made a fun button for draw cards
 - Imported fonts (forgot to switch all of the text)
   
+# Prototype Vertical Slice Pro_02 10/23
+- Created sprite sheets for the buttons
