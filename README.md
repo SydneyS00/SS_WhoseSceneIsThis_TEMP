@@ -1,5 +1,9 @@
 # SS_WhoseSceneIsThis_TEMP
 
+# Playable Link : 
+https://sydneys00.github.io/SS_WhoseSceneIsThis_TEMP/
+
+
 Youtube Tutorials: 
 - How to Make a Card Game in Unity: https://www.youtube.com/watch?v=C5bnWShD6ng&t=319s 
 
